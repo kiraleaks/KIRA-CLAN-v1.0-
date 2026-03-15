@@ -78,7 +78,7 @@ DiscCorner.Parent = DiscBtn
 
 DiscBtn.MouseButton1Click:Connect(function()
     setclipboard("https://discord.gg/ZH48pK5wen")
-    warn("Discord invite copied! Join → key: HEYINEEDTHEKEYMAN")
+    warn("Discord invite copied! Join → key: 1KFAMILY")
 end)
 
 local ContinueBtn = Instance.new("TextButton")
@@ -181,7 +181,7 @@ submitCorner.CornerRadius = UDim.new(0, 14)
 submitCorner.Parent = submitBtn
 
 submitBtn.MouseButton1Click:Connect(function()
-    if keyInput.Text == "HEYINEEDTHEKEYMAN" then
+    if keyInput.Text == "1KFAMILY" then
         keyScreen:Destroy()
         
         -- Your full original GUI starts here
@@ -460,7 +460,7 @@ DiscCorner.Parent = DiscBtn
 
 DiscBtn.MouseButton1Click:Connect(function()
     setclipboard("https://discord.gg/ZH48pK5wen")
-    warn("Discord invite copied! Join → key: HEYINEEDTHEKEYMAN")
+    warn("Discord invite copied! Join → key: 1KFAMILY")
 end)
 
 local ContinueBtn = Instance.new("TextButton")
@@ -563,7 +563,7 @@ submitCorner.CornerRadius = UDim.new(0, 14)
 submitCorner.Parent = submitBtn
 
 submitBtn.MouseButton1Click:Connect(function()
-    if keyInput.Text == "HEYINEEDTHEKEYMAN" then
+    if keyInput.Text == "1KFAMILY" then
         keyScreen:Destroy()
         
         -- Your full original GUI starts here
